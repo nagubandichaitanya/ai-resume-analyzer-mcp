@@ -1,0 +1,22 @@
+CHAY
+BTech Computer Science Engineering
+
+SUMMARY
+Python developer and AI/ML fresher with experience building web applications, REST APIs and AI-powered projects.
+
+SKILLS
+Python, C, C++, FastAPI, Django, HTML, CSS, JavaScript, PostgreSQL, SQL, SQLite, NumPy, Pandas, Scikit-learn, Git, GitHub, REST API, RAG, LLM, MCP.
+
+PROJECTS
+AI Document Assistant
+Built a document question-answering application using Python, RAG and LLM concepts.
+
+FactoryIQ Portal
+Developed a web application using Angular, Python, FastAPI and PostgreSQL.
+
+Warehouse Management
+Developed a web application using HTML, CSS, JavaScript, Django and SQLite.
+
+EDUCATION
+BTech Computer Science Engineering
+CGPA: 8.42

@@ -1,0 +1,9 @@
+PYTHON AI ENGINEER
+
+We are looking for a Python developer to build AI-powered applications.
+
+Required skills:
+Python, FastAPI, PostgreSQL, SQL, REST API, Git, Docker, AWS, machine learning, RAG, LLM, MCP.
+
+Responsibilities:
+Build backend APIs, integrate AI models, develop retrieval-augmented generation pipelines, work with PostgreSQL, write tests, and collaborate using Git-based development workflows.
